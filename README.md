@@ -4,7 +4,7 @@
 
 </div>
 
-> Jogo de pedra, papel e tesoura desenvolvido como atividade de fixação e treino da aula de quality assurance e testes. Foi solucionado o a atividade proposta no Dojo Puzzles e implementado TDD.
+> Jogo de pedra, papel e tesoura desenvolvido como atividade de fixação e treino da aula de quality assurance e testes. Foi solucionado o a atividade proposta no [Dojo Puzzles](https://dojopuzzles.com) e implementado TDD.
 
 <div align="center">
 
