@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jokenpo (PEdra, Papel, Tesoura) 🗿📃✂️
+# Jokenpo (Pedra, Papel, Tesoura) 🗿📃✂️
 
 </div>
 
